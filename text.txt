@@ -1,1 +1,1 @@
-var car = null;
+var car = true;
